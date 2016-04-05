@@ -1,2 +1,7 @@
 # hello-world
-my first repository
+
+Hello World!
+
+this is my first time to learn to edit this file
+it' fantastic
+thank you!
